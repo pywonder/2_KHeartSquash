@@ -20,6 +20,7 @@ MonoBehaviour:
       _state: 0
     - _mode: 0
       _feature: 1
+<<<<<<< Updated upstream:Assets/HandPoses/MediumHeartRight.asset
       _state: 3
   _indexFeatureConfigs:
     _value:
@@ -52,4 +53,6 @@ MonoBehaviour:
       _state: 1
     - _mode: 0
       _feature: 1
+=======
+>>>>>>> Stashed changes:Assets/HandPoses/MediumHeartBelow.asset
       _state: 4

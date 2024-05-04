@@ -6,8 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< Updated upstream
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+=======
+    path: Assets/Scenes/PlayMode.unity
+    guid: c57122b2ef027804bad09f1b1200e5b9
+>>>>>>> Stashed changes
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3fa2d6fdfd52a854b9006a09475f7ead, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9fa3b26ec6ee06c41b884ad9926a87e6, type: 2}
